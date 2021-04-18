@@ -1,4 +1,9 @@
-from pyfirmata import Arduino, OUTPUT
+"""
+Programa pisca.py.
+
+Exemplo executado num ambiente Linux
+"""
+from pyfirmata import Arduino
 
 PORTA = "/dev/ttyACM0"
 
