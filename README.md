@@ -27,9 +27,8 @@ O primeiro passo é **carregar** o protocolo Firmata no Arduino.
 #### Montagem
 <img src=images/arduino_01.png width=50%>
 
-O código python está no arquivo [pisca.py](01_pisca-pisca/pisca.py).
+O código python está no arquivo [pisca.py](exemplos/pisca.py).
 
 Com o código pronto basta executar: ```python pisca.py```
 
-Somente como exemplo, o arquivo de como ficaria um programa similar para rodar no Arduino: [programa.ino](01_pisca-pisca/programa.ino).
-
+Somente como exemplo, o arquivo de como ficaria um programa similar para rodar no Arduino: [programa.ino](exemplos/programa.ino).
