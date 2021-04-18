@@ -1,6 +1,10 @@
 # Projetos com Python e Arduino
+[![Python version](https://img.shields.io/badge/python-v3.9-brightgreen)](https://docs.python.org/pt-br/3.9//)
+[![arduino-library-badge](https://www.ardu-badge.com/badge/Firmata.svg?)](https://www.ardu-badge.com/Firmata)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-## Integração entre o Python e Arduino
+
+## 📒 Integração entre o Python e Arduino
 > Para que seja possível que os programas em Python se comuniquem com o Arduino é necessário a utilização do protocolo Firmata, que é carregado no Arduino e instalação da biblioteca [pyFirmata](https://pypi.org/project/pyFirmata/) no programa Python.
 
 <img src=images/firmata.png width=50%>
