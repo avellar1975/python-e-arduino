@@ -32,3 +32,8 @@ O código python está no arquivo [pisca.py](exemplos/pisca.py).
 Com o código pronto basta executar: ```python pisca.py```
 
 Somente como exemplo, o arquivo de como ficaria um programa similar para rodar no Arduino: [programa.ino](exemplos/programa.ino).
+
+### Controle de um LED
+> O material necessário e montagem são os mesmos do exemplo anterior.
+
+O código python está no arquivo [controle_de_um_led.py](exemplos/controle_de_um_led.py).
