@@ -7,7 +7,7 @@
 
 O primeiro passo é **carregar** o protocolo Firmata no Arduino.
 
-É preciso instalar a biblioteca Python pyFirmata: ```pip install pyFirmata```
+É preciso instalar a biblioteca Python pyFirmata: ```pip install pyfirmata```
 
 ## Entradas e Saídas Digitais
 
