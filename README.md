@@ -12,3 +12,17 @@ O primeiro passo é **carregar** o protocolo Firmata no Arduino.
 ## Entradas e Saídas Digitais
 
 ### Pisca-Pisca - Primeiro exemplo
+
+#### Material necessário:
+* 1 Arduino
+* 1 resistor de 220 ohms ou de 330 ohms
+* 1 LED
+* 1 protoboard
+* Cabos de ligação
+
+#### Montagem
+<img src=images/arduino_01.png width=50%>
+
+O código python está no arquivo [pisca.py](01_pisca-pisca/pisca.py).
+
+Com o código pronto basta executar: ```python pisca.py```
