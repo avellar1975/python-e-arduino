@@ -27,6 +27,8 @@ O primeiro passo é **carregar** o protocolo Firmata no Arduino.
 #### Montagem
 <img src=images/arduino_01.png width=50%>
 
+> Modelo gerado no site: [tinkercad](https://www.tinkercad.com/)
+
 O código python está no arquivo [pisca.py](exemplos/pisca.py).
 
 Com o código pronto basta executar: ```python pisca.py```
